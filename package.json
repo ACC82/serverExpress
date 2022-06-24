@@ -1,0 +1,24 @@
+{
+  "name": "serverexpress",
+  "version": "1.0.0",
+  "description": "serverExpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ACC82/serverExpress.git"
+  },
+  "author": "Alberto Contreras Camacho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ACC82/serverExpress/issues"
+  },
+  "homepage": "https://github.com/ACC82/serverExpress#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
